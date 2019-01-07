@@ -1,6 +1,6 @@
 # Udacitiy_Project4_WeRateDogs #
-<br>
-## General information ##
+
+General information 
 The data was provided by the twitter user @WeRateDogs, Udacity and additional information was gathered from the twitter API. This project is part of Udacity’s Data Analyst Nanodegree program. 
 <br><br>
 ## Information about the data
